@@ -1,22 +1,142 @@
 [
-  {"id": "t001", "label": "interview"},
-  {"id": "t002", "label": "interview"},
-  {"id": "t003", "label": null},
-  {"id": "t004", "label": "interview"},
-  {"id": "t005", "label": null},
-  {"id": "t006", "label": "solo"},
-  {"id": "t007", "label": "solo"},
-  {"id": "t008", "label": null},
-  {"id": "t009", "label": null},
-  {"id": "t010", "label": null},
-  {"id": "t011", "label": "panel"},
-  {"id": "t012", "label": "panel"},
-  {"id": "t013", "label": "panel"},
-  {"id": "t014", "label": null},
-  {"id": "t015", "label": null},
-  {"id": "t016", "label": "narrative"},
-  {"id": "t017", "label": null},
-  {"id": "t018", "label": "narrative"},
-  {"id": "t019", "label": null},
-  {"id": "t020", "label": null}
+  {
+    "id": "t001",
+    "title": "Criminal Minds",
+    "podcast": "Crime Talk",
+    "description": "A 14 season show replicating or slightly altering real crimes.",
+    "label": "interview"
+  },
+  {
+    "id": "t002",
+    "title": "Love Island",
+    "podcast": "Love on an Island",
+    "description": "Candidates both women and men are put on an island to find love. They are placed into initial couples and can explore other connections. Every few episodes someone gets voted off by the audience or the other islanders.",
+    "label": "interview"
+  },
+  {
+    "id": "t003",
+    "title": "Avatar The Last Airbender",
+    "podcast": "The Four Elements",
+    "description": "An avatar who was frozen for many years is trying to bring all the nations together. Each nation has people with different elemental powers.",
+    "label": null
+  },
+  {
+    "id": "t004",
+    "title": "Kung Fu Panda",
+    "podcast": "Panda Talks",
+    "description": "A fighting panda and his team work together to keep peace and protect their valley.",
+    "label": "interview"
+  },
+  {
+    "id": "t005",
+    "title": "The Office",
+    "podcast": "Workplace Stories",
+    "description": "A comedy series following the daily lives of office employees and their unusual manager.",
+    "label": null
+  },
+  {
+    "id": "t006",
+    "title": "Minecraft",
+    "podcast": "Block Builder",
+    "description": "Players gather resources, build structures, and survive in a world made entirely of blocks.",
+    "label": "solo"
+  },
+  {
+    "id": "t007",
+    "title": "The Legend of Zelda",
+    "podcast": "Hyrule Adventures",
+    "description": "A young hero travels across a kingdom to defeat evil forces and rescue the princess.",
+    "label": "solo"
+  },
+  {
+    "id": "t008",
+    "title": "Stranger Things",
+    "podcast": "Mystery Files",
+    "description": "A group of friends uncover supernatural events connected to a secret government experiment.",
+    "label": null
+  },
+  {
+    "id": "t009",
+    "title": "Finding Nemo",
+    "podcast": "Ocean Journey",
+    "description": "A clownfish travels across the ocean searching for his son who was captured by divers.",
+    "label": null
+  },
+  {
+    "id": "t010",
+    "title": "Jurassic Park",
+    "podcast": "Dinosaur Discoveries",
+    "description": "Scientists create a park filled with cloned dinosaurs, but the creatures eventually escape control.",
+    "label": null
+  },
+  {
+    "id": "t011",
+    "title": "Friends",
+    "podcast": "Coffee Shop Conversations",
+    "description": "Six friends navigate relationships, careers, and everyday life while living in New York City.",
+    "label": "panel"
+  },
+  {
+    "id": "t012",
+    "title": "The Avengers",
+    "podcast": "Hero Roundtable",
+    "description": "A team of superheroes join forces to protect the world from powerful threats.",
+    "label": "panel"
+  },
+  {
+    "id": "t013",
+    "title": "Brooklyn Nine-Nine",
+    "podcast": "Precinct Discussions",
+    "description": "Detectives in a New York police precinct solve crimes while dealing with workplace humor.",
+    "label": "panel"
+  },
+  {
+    "id": "t014",
+    "title": "Shrek",
+    "podcast": "Fairy Tale Adventures",
+    "description": "An ogre goes on a journey to rescue a princess and discovers unexpected friendships.",
+    "label": null
+  },
+  {
+    "id": "t015",
+    "title": "Spider-Man",
+    "podcast": "Web Slinger Weekly",
+    "description": "A teenager gains spider-like abilities and balances superhero duties with everyday life.",
+    "label": null
+  },
+  {
+    "id": "t016",
+    "title": "Harry Potter",
+    "podcast": "Wizard Chronicles",
+    "description": "A young wizard attends a magical school while confronting the dark wizard who threatens the wizarding world.",
+    "label": "narrative"
+  },
+  {
+    "id": "t017",
+    "title": "Frozen",
+    "podcast": "Snow Kingdom",
+    "description": "Two sisters learn the value of family while one struggles to control her magical ice powers.",
+    "label": null
+  },
+  {
+    "id": "t018",
+    "title": "The Lord of the Rings",
+    "podcast": "Middle Earth Tales",
+    "description": "A group of companions embark on a quest to destroy a powerful ring and save their world.",
+    "label": "narrative"
+  },
+  {
+    "id": "t019",
+    "title": "Toy Story",
+    "podcast": "Toy Box Stories",
+    "description": "A collection of toys come to life when humans are not around and go on adventures together.",
+    "label": null
+  },
+  {
+    "id": "t020",
+    "title": "The Lion King",
+    "podcast": "Pride Lands",
+    "description": "A young lion prince must reclaim his kingdom after the death of his father.",
+    "label": null
+  }
 ]
